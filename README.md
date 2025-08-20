@@ -5,7 +5,6 @@
 ![Status](https://img.shields.io/badge/Status-Active-success.svg)
 
 > 📊 A simple yet powerful tool to optimize energy distribution between **Solar**, **Battery**, and **Gas** sources while meeting renewable energy targets.  
-> 🛠 **Made with ❤️ by Kartik Bhardwaj**
 
 ---
 
@@ -90,6 +89,7 @@ Total Cost: ₹430000.00
 
 📊 Visualize results with charts & graphs.
 
+🛠 **Made with ❤️ by Kartik Bhardwaj**
 👨‍💻 Author
 Kartik Bhardwaj
 💼 Aspiring Generative AI Engineer | Full Stack Developer | Data Scientist
